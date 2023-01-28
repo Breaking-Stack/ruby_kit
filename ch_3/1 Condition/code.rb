@@ -201,4 +201,4 @@
 # "hello".object_id     == "hello".object_id     # => false
 # "hi".freeze.object_id == "hi".freeze.object_id # => true
 
-THANKS :)))
+# THANKS :)))
